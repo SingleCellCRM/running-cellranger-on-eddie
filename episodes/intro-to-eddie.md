@@ -1,19 +1,23 @@
 ---
-title: "Using Markdown"
+title: "Introduction to Eddie"
 teaching: 10 # teaching time in minutes
 exercises: 2 # exercise time in minutes
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you write a lesson using Markdown and `{sandpaper}`?
+- What is Eddie?
+- How can I use Eddie during my research?
+- Where can I find help?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Explain how to use markdown with The Carpentries Workbench
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
+- Log in to Eddie.
+- Navigate the file system.
+- Log into an interactive node.
+- Load a module.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
