@@ -1,22 +1,41 @@
-# The Carpentries Workbench Template Markdown Lesson
+# Running CellRanger on Eddie
 
-This lesson is a template lesson that uses [The Carpentries Workbench][workbench]. 
+This lesson was developed from the template lesson that uses [The Carpentries Workbench][workbench]. 
 
-## Note about lesson life cycle stage
-Although the `config.yaml` states the life cycle stage as pre-alpha, **the template is stable and ready to use**. The life cycle stage is preset to `"pre-alpha"` as this setting is appropriate for new lessons initialised using the template.
+## Description
 
-## Create a new repository from this template
+Designed for staff and students at the University of Edinburgh, to be taught during Day Two of the IRR Bioinformatics Course hosted by the [IRR Single Cell & Spatial Biology Facility](https://regeneration-repair.ed.ac.uk/core-facilities/single-cell-spatial-biology) bioinformatics team.
 
-To use this template to start a new lesson repository, 
-make sure you're logged into Github.   
-Visit https://github.com/carpentries/workbench-template-md/generate
-and follow the instructions.
-Checking the 'Include all branches' option will save some time waiting for the first website build
-when your new repository is initialised.
+During this course you will:
 
-If you have any questions, contact [@tobyhodges](https://github.com/tobyhodges)
+- Receive an introduction to [Eddie](https://www.wiki.ed.ac.uk/spaces/ResearchServices/pages/293580913/Eddie) (the University of Edinburgh's high-performance research computing cluster).
+- Learn how to log in to an interactive node and staging node, navigate the university file system including your scratch space, and access datastore.
+- Use university managed software via the Eddie module system.
+- Download publicly available reference data.
+- Set up a computing project folder.
+- Write and submit a script to run CellRanger on 10X single-cell sequencing data.
+- Copy the results to your personal computer and interpret the output.
 
-## Configure a new lesson
+## Requirements
+
+To run this course, you will need:
+
+- A personal laptop.
+- A terminal window (Linux and Mac OS) or a ssh client such as [MobaXterm](https://mobaxterm.mobatek.net/) or [PuTTY](https://putty.org/index.html) (Windows).
+- Your university staff or student username and password.
+- To be connected to the university WiFi ([eduroam](https://information-services.ed.ac.uk/computing/desktop-personal/wifi-networking/configure-device)), or university [VPN](https://information-services.ed.ac.uk/computing/desktop-personal/vpn/vpn-service-using).
+- To have completed Day One of the IRR Bioinformatics course.
+
+## References
+
+This course was developed using resources from:
+
+- Data Carpentry
+- HBC Training
+- University of Edinburgh Research Services
+- etc...
+
+##
 
 Follow the steps below to
 complete the initial configuration of a new lesson repository built from this template:
