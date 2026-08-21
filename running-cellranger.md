@@ -1,19 +1,21 @@
 ---
-title: "Using Markdown"
+title: "Running CellRanger"
 teaching: 10 # teaching time in minutes
 exercises: 2 # exercise time in minutes
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you write a lesson using Markdown and `{sandpaper}`?
+- How do you submit jobs on Eddie?
+- What does the CellRanger output teach you?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Explain how to use markdown with The Carpentries Workbench
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
+- Write and submit a script to run CellRanger.
+- Monitor the submitted job.
+- Download and interpret the results.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
