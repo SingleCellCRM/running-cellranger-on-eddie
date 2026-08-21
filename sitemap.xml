@@ -52,6 +52,9 @@
     <loc>https://SingleCellCRM.github.io/running-cellranger-on-eddie/instructor/instructor-notes.html</loc>
   </url>
   <url>
+    <loc>https://SingleCellCRM.github.io/running-cellranger-on-eddie/instructor/intro-to-eddie.html</loc>
+  </url>
+  <url>
     <loc>https://SingleCellCRM.github.io/running-cellranger-on-eddie/instructor/introduction.html</loc>
   </url>
   <url>
@@ -61,10 +64,19 @@
     <loc>https://SingleCellCRM.github.io/running-cellranger-on-eddie/instructor/profiles.html</loc>
   </url>
   <url>
+    <loc>https://SingleCellCRM.github.io/running-cellranger-on-eddie/instructor/project-init.html</loc>
+  </url>
+  <url>
     <loc>https://SingleCellCRM.github.io/running-cellranger-on-eddie/instructor/reference.html</loc>
   </url>
   <url>
+    <loc>https://SingleCellCRM.github.io/running-cellranger-on-eddie/instructor/running-cellranger.html</loc>
+  </url>
+  <url>
     <loc>https://SingleCellCRM.github.io/running-cellranger-on-eddie/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://SingleCellCRM.github.io/running-cellranger-on-eddie/intro-to-eddie.html</loc>
   </url>
   <url>
     <loc>https://SingleCellCRM.github.io/running-cellranger-on-eddie/introduction.html</loc>
@@ -76,6 +88,12 @@
     <loc>https://SingleCellCRM.github.io/running-cellranger-on-eddie/profiles.html</loc>
   </url>
   <url>
+    <loc>https://SingleCellCRM.github.io/running-cellranger-on-eddie/project-init.html</loc>
+  </url>
+  <url>
     <loc>https://SingleCellCRM.github.io/running-cellranger-on-eddie/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://SingleCellCRM.github.io/running-cellranger-on-eddie/running-cellranger.html</loc>
   </url>
 </urlset>
