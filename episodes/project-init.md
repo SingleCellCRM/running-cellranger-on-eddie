@@ -1,19 +1,20 @@
 ---
-title: "Using Markdown"
+title: "Starting a New Project"
 teaching: 10 # teaching time in minutes
 exercises: 2 # exercise time in minutes
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you write a lesson using Markdown and `{sandpaper}`?
+- How should I structure a bioinformatics project?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Explain how to use markdown with The Carpentries Workbench
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
+- Create a project directory with 'src', 'data', and 'outs' folders.
+- Write an informative readme.
+- Download reference data.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
