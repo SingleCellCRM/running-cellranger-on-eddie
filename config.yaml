@@ -67,7 +67,9 @@ contact: 'jluft@ed.ac.uk' # FIXME
 
 # Order of episodes in your lesson
 episodes: 
-- introduction.md
+- intro-to-eddie.md
+- project-init.md
+- running-cellranger.md
 
 # Information for Learners
 learners: 
